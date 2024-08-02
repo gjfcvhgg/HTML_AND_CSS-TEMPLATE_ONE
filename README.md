@@ -1,2 +1,2 @@
-# HTML_AND_CSS-TEMPLATE_two
+# HTML_AND_CSS-TEMPLATE_TWO
 HTML and CSS Design Number Two
